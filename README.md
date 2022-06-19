@@ -17,14 +17,14 @@ Exercício para desenvolver uma pagina com a Tabela de grupos da copa curso Coda
 
 Desktop
 <br>
-![Desktop](/img/tabelacopa.gif)
+![Desktop](/img/tabelacopa.png)
 
 <br>
 
 Mobile
 <br>
 
-![Mobile](/img/tabelacopa_mobile.gif)
+![Mobile](/img/tabelacopa_mobile.png)
 
 
 ## Autor
